@@ -137,6 +137,3 @@ filemanager.exe
 
 ---
 
-## Лицензия
-
-MIT
